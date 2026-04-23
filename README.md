@@ -21,7 +21,6 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Caylex09/Caylex09/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Latest Blog Posts
-
+&nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
