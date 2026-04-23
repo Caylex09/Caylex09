@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Caylex
-
-🎯 Competitive Programmer
-
-📍 China
+# 👋 Hi, I'm Caylex ![visitors](https://komarev.com/ghpvc/?username=Caylex09)
 
 ---
 
 ## 🚀 About Me
+
+🎯 Competitive Programmer
+
+📍 China
 
 ![Codeforces: Caylex](https://cfrating.baoshuo.dev/rating?username=Caylex)
 
@@ -21,35 +21,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Caylex09/Caylex09/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Caylex09/Caylex09/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-## 📌 Projects
-
-<p style="text-align: center;">
-  <a href="https://github.com/Caylex09/lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=lab" />
-  </a>
-  <a href="https://github.com/Caylex09/OrthogonalLatinSquare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=OrthogonalLatinSquare" />
-  </a>
-</p>
-
-<p style="text-align: center;">
-  <a href="https://github.com/Caylex09/QOJ-better">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=QOJ-better" />
-  </a>
-  <a href="https://github.com/Caylex09/luogu_submission_better">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=luogu_submission_better" />
-  </a>
-</p>
-
-<p style="text-align: center;">
-  <a href="https://github.com/Caylex09/discord-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=discord-bot" />
-  </a>
-</p>
-
 
 ---
 
