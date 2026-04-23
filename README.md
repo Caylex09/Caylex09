@@ -23,4 +23,9 @@ Here are some ideas to get you started:
 
 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [[游记] 2026 ICPC 深圳 邀请赛 游记](http://blog.cyx2009.top/archives/ICPC_2026_Shenzhen_I/)
+- [[笔记] Cypher 游玩笔记 &amp; 密码学入门](http://blog.cyx2009.top/archives/cypher/)
+- [[闲话] 2026-03-25 日记](http://blog.cyx2009.top/archives/2026-03-25/)
+- [[闲话] 2026-03-24 日记](http://blog.cyx2009.top/archives/2026-03-24/)
+- [[闲话] 2026-03-21 日记](http://blog.cyx2009.top/archives/2026-03-21/)
 <!-- BLOG-POST-LIST:END -->
