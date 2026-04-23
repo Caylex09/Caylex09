@@ -26,15 +26,29 @@
 
 ## 📌 Projects
 
-[![lab](https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=lab)](https://github.com/Caylex09/lab)
+<p style="text-align: center;">
+  <a href="https://github.com/Caylex09/lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=lab" />
+  </a>
+  <a href="https://github.com/Caylex09/OrthogonalLatinSquare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=OrthogonalLatinSquare" />
+  </a>
+</p>
 
-[![OrthogonalLatinSquare](https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=OrthogonalLatinSquare)](https://github.com/Caylex09/OrthogonalLatinSquare)
+<p style="text-align: center;">
+  <a href="https://github.com/Caylex09/QOJ-better">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=QOJ-better" />
+  </a>
+  <a href="https://github.com/Caylex09/luogu_submission_better">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=luogu_submission_better" />
+  </a>
+</p>
 
-[![QOJ-better](https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=QOJ-better)](https://github.com/Caylex09/QOJ-better)
-
-[![luogu_submission_better](https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=luogu_submission_better)](https://github.com/Caylex09/luogu_submission_better)
-
-[![discord-bot](https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=discord-bot)](https://github.com/Caylex09/discord-bot)
+<p style="text-align: center;">
+  <a href="https://github.com/Caylex09/discord-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Caylex09&repo=discord-bot" />
+  </a>
+</p>
 
 
 ---
