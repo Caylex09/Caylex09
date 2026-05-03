@@ -26,7 +26,7 @@
 
 ## 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[No Title] - Post](http://blog.cyx2009.top/archives/ICPC_2026_Xian_I/)
+- [[题解] 2026 ICPC 西安 邀请赛 题解](http://blog.cyx2009.top/archives/ICPC_2026_Xian_I/)
 - [[游记] 2026 ICPC 深圳 邀请赛 游记](http://blog.cyx2009.top/archives/ICPC_2026_Shenzhen_I/)
 - [[笔记] Cypher 游玩笔记 &amp; 密码学入门](http://blog.cyx2009.top/archives/cypher/)
 - [[闲话] 2026-03-25 日记](http://blog.cyx2009.top/archives/2026-03-25/)
