@@ -26,9 +26,9 @@
 
 ## 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[闲话] 词元一词从何而来？](http://blog.cyx2009.top/archives/where_ciyuan/)
 - [[闲话] 2026-06-19 日记](http://blog.cyx2009.top/archives/2026-06-19/)
 - [[题解] PKUCPC2026 题解](http://blog.cyx2009.top/archives/PKUCPC2026/)
 - [[题解] AtCoder Regular Contest-- 219 题解](http://blog.cyx2009.top/archives/ARC219/)
 - [[题解] 杂题选讲 13](http://blog.cyx2009.top/archives/potpourri_13/)
-- [[题解] 2026 ICPC 西安 邀请赛 题解](http://blog.cyx2009.top/archives/ICPC_2026_Xian_I/)
 <!-- BLOG-POST-LIST:END -->
