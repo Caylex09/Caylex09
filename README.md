@@ -26,9 +26,9 @@
 
 ## 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[题解] 杂题选讲 16](http://blog.cyx2009.top/archives/potpourri_16/)
 - [[游记] CSP 2026 游记](http://blog.cyx2009.top/archives/CSP2026/)
 - [[题解] 杂题选讲 15](http://blog.cyx2009.top/archives/potpourri_15/)
 - [[闲话] 2026-07-06 日记](http://blog.cyx2009.top/archives/2026-07-06/)
 - [[游记] NOI 2026 游记](http://blog.cyx2009.top/archives/NOI2026/)
-- [[笔记] 中国古代文学史](http://blog.cyx2009.top/archives/classical-chinese-literature/)
 <!-- BLOG-POST-LIST:END -->
