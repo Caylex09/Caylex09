@@ -26,9 +26,9 @@
 
 ## 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[游记] 2026 ICPC 南京 区域赛 游记 | 你有一个真正的 rk3 吗？](http://blog.cyx2009.top/archives/ICPC_2026_Nanjing_R/)
+- [[题解] 杂题选讲 18](http://blog.cyx2009.top/archives/potpourri_18/)
 - [[闲话] 20261015 鲜花 | Physics?!?!](http://blog.cyx2009.top/archives/20261015_essay/)
 - [[题解] 杂题选讲 17](http://blog.cyx2009.top/archives/potpourri_17/)
 - [[题解] 杂题选讲 16](http://blog.cyx2009.top/archives/potpourri_16/)
-- [[游记] CSP 2026 游记](http://blog.cyx2009.top/archives/CSP2026/)
-- [[题解] 杂题选讲 15](http://blog.cyx2009.top/archives/potpourri_15/)
 <!-- BLOG-POST-LIST:END -->
