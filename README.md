@@ -26,9 +26,9 @@
 
 ## 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[闲话] 2026-11-25 鲜花 | ω = 2.25](https://blog.cyx2009.top/archives/omega2.25/)
 - [[题解] 杂题选讲 19](https://blog.cyx2009.top/archives/potpourri_19/)
 - [[题解] 时隔一年，再谈 Elegant Square](https://blog.cyx2009.top/archives/elegant_square_again/)
 - [[游记] 2026 ICPC 南京 区域赛 游记 | 你有一个真正的 rk3 吗？](https://blog.cyx2009.top/archives/ICPC_2026_Nanjing_R/)
 - [[题解] 杂题选讲 18](https://blog.cyx2009.top/archives/potpourri_18/)
-- [[闲话] 20261015 鲜花 | Physics?!?!](https://blog.cyx2009.top/archives/20261015_essay/)
 <!-- BLOG-POST-LIST:END -->
